@@ -24,7 +24,7 @@ header('location:manage.php');
 		}
 		.image{
 			background-image: url("images/l8.jpg");
-			filter: blur(2px);
+			filter: blur(7px);
 			height: 100%; 
 			background-position: center;
   			background-repeat: no-repeat;
